@@ -36,6 +36,9 @@
 
 ![完善账户信息](http://odyag87a4.bkt.clouddn.com/images/ubuntu_16.04/07.png)
 
+**安装等待**
+
+![完善账户信息](http://odyag87a4.bkt.clouddn.com/images/ubuntu_16.04/13.png)
 
 **登录界面**
 
@@ -44,6 +47,11 @@
 **初始桌面**
 
 ![初始桌面](http://odyag87a4.bkt.clouddn.com/images/ubuntu_16.04/09.png)
+
+
+**文件管理器**
+
+![文件管理器](http://odyag87a4.bkt.clouddn.com/images/ubuntu_16.04/14.png)
 
 **打开软件**
 
