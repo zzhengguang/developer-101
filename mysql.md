@@ -7,9 +7,18 @@
     sudo apt-get install mysql-server
     sudo apt-get isntall mysql-client
     
-#### 检查mysql是否安装成功
-
-    sudo netstat -tap | grep mysql
+#### 启动mysql
+	
+	sudo service mysql start
+		
+####检查mysql是否安装成功
+	
+    sudo netstat -ant | grep 3306
+    或sudo ps -ef|grep mysql
+    
+#### 关闭mysql
+	
+	sudo service mysql stop
     
 ####登录mysql
 
