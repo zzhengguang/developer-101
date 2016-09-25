@@ -47,10 +47,11 @@
 	
 #### 文件传输
 
-	# 下载文件
-	scp <file_name> <user>@<ip_or_domain>:<path>
 	
 	# 上传文件
+	scp <file_name> <user>@<ip_or_domain>:<path>
+	
+	# 下载文件
 	scp <user>@<ip_or_domain>:<path> <file_name>
 	
 
