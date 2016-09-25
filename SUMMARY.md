@@ -13,4 +13,5 @@
 * [postgresql](postgresql.md)
 * [mysql](mysql.md)
 * [sql语句](sql.md)
+* [在 Ubunt 16.04上搭建 Rails5开发环境](rails_setup.md)
 
