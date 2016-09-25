@@ -1,5 +1,10 @@
 # PostgreSQL新手入门
 
+#### 介绍
+
+* [PostgreSQL 官方网站](https://www.postgresql.org/)
+* 默认端口: 5432
+
 #### 安装
 
 **Ubuntu**
