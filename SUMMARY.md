@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Ubuntu 中文输入法](ubuntu_chinese_input.md)
-* [Sublime Text 3](ubuntu_sublime.md)
+
 * [OpenSSH](open_ssh.md)
 * [GitHub](github.md)
 * [VirtualBox](virtualbox.md)
@@ -17,4 +16,7 @@
 * [Ubunt Xenial新手入门](ubuntu/README.md)
     * [安装系统](ubuntu/install.md)
     * [终端](ubuntu/terminal.md)
+    * [软件安装](ubuntu/apt.md)
+    * [中文输入法](ubuntu/chinese_input.md)
+    * [Sublime Text 3 编辑器](ubuntu/sublime.md)
 
