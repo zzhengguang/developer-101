@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Ubuntu 16.04 安装](ubuntu_16.04.md)
 * [Ubuntu 中文输入法](ubuntu_chinese_input.md)
 * [Sublime Text 3](ubuntu_sublime.md)
 * [OpenSSH](open_ssh.md)
@@ -15,4 +14,7 @@
 * [mysql](mysql.md)
 * [sql语句](sql.md)
 * [在 Ubunt 16.04上搭建 Rails5开发环境](rails_setup.md)
+* [Ubunt Xenial新手入门](ubuntu/README.md)
+    * [安装系统](ubuntu/install.md)
+    * [终端](ubuntu/terminal.md)
 
