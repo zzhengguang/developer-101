@@ -13,6 +13,7 @@
 * [Ubunt Xenial新手入门](ubuntu/README.md)
     * [安装系统](ubuntu/install.md)
     * [终端](ubuntu/terminal.md)
+    * [修改安装源](ubuntu/sources.md)
     * [软件安装](ubuntu/apt.md)
     * [中文输入法](ubuntu/chinese_input.md)
     * [Sublime Text 3 编辑器](ubuntu/sublime.md)
