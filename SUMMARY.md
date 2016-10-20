@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [OpenSSH](open_ssh.md)
 * [GitHub](github.md)
-* [VirtualBox](virtualbox.md)
 * [vagrant](vagrant.md)
 * [heroku](heroku.md)
 * [linux基础命令](linux_basic.md)
