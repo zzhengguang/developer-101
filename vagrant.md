@@ -26,8 +26,10 @@
 
 **Box使用**
 
-下载 [trusty-server-cloudimg-amd64-vagrant-disk1.box](
-	https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box)
+* 下载 [trusty-server-cloudimg-amd64-vagrant-disk1.box](
+	https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box)(BIOS需要开启虚拟化)
+	
+* 下载 [trusty-server-cloudimg-i386-vagrant-disk1.box](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/current/trusty-server-cloudimg-i386-vagrant-disk1.box)
 
 
 	vagrant box add base trusty-server-cloudimg-amd64-vagrant-disk1.box
