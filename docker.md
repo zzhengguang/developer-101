@@ -1,3 +1,20 @@
+#### 安装
+
+**Mac**
+
+	brew cask install docker
+	
+**Linux**
+
+
+### 替换安装源
+
+	# debian
+	RUN sed -i 's/httpredir.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list
+	
+	# ubuntu
+	RUN sed -i 's/archive.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
+
 
 #### 推荐资料
 
