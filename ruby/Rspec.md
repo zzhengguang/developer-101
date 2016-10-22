@@ -19,11 +19,8 @@
 
 生成模型
 
-	rails g model book author price 
+	rails g model book name author price 
 	
-生成模型测试
-
-	rails generate rspec:model	book
 	
 spec/models/book_spec.rb
 
@@ -86,4 +83,19 @@ spec/models/book_spec.rb
 	    end
 	  end
 	end
+	
+### 结果显示格式(.rspec)
+
+选择一个模式即可
+
+文档模式
+
+	--format documentation
+
+fuubar模式
+
+	gem 'fuubar', '~> 2.2'
+	
+	--format Fuubar
+
 
