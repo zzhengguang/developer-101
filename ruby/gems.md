@@ -1,7 +1,5 @@
 # Gems
-### Tutorial
 
-* [Whenever 使用筆記](http://lemonup.logdown.com/posts/169422-rails-whenever-use-note)
 
 ### Commmon
 
@@ -13,8 +11,10 @@ Name |  Description  | References
 [seedbank][003]		| 自定义 seed 数据 | 
 [rails-i18n][004]	| 多语言处理 |
 [pry-rails][009]	/ [pry-remote][010]	| 调试环境 | [pry][pry]
+[dotenv-rails][026] | 环境变量管理
+[enumerize][027]		| 枚举类型管理(带语言包)
 [paranoia][005]		| 软删除 |
-[whenever][022]			| 定时任务 | 
+[whenever][022]			| 定时任务 |  [Whenever 使用筆記][tutorial-001]
 
 
 
@@ -29,6 +29,11 @@ Name |  Description  | References
 
 
 ### API
+
+Name |  Description  | References
+------|--------- |------ |
+[rack-cors][028] | 支持跨域请求 | [Rails中跨域请求的解析][tutorial-002]
+[active\_model\_serializers][029] | JSON 数据生成 |  [用 JSON 构建 API 的标准指南][tutorial-003]
 
 ### Test
 
@@ -71,6 +76,10 @@ Name |  Description  | References
 [023]: https://github.com/DatabaseCleaner/database_cleaner
 [024]: https://github.com/jnicklas/capybara
 [025]: https://github.com/copiousfreetime/launchy
+[026]: https://github.com/bkeepers/dotenv
+[027]: https://github.com/brainspec/enumerize
+[028]: https://github.com/cyu/rack-cors
+[029]: https://github.com/rails-api/active_model_serializers
 
 [semantic-ui]: http://semantic-ui.com/
 [slim]: http://slim-lang.com/
@@ -79,4 +88,9 @@ Name |  Description  | References
 [rspec]: http://rspec.info/
 [shoulda-matchers]: http://matchers.shoulda.io/
 [capistrano]: http://capistranorb.com/
+
+
+[tutorial-001]: http://lemonup.logdown.com/posts/169422-rails-whenever-use-note
+[tutorial-002]: http://makeiteasy.github.io/2014/10/11/cross-origin-resource-sharing.html
+[tutorial-003]: http://jsonapi.org.cn/
 
