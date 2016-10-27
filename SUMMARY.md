@@ -20,7 +20,11 @@
     * [PostgreSQL](database/postgresql.md)
     * [MySQL](database/mysql.md)
     * [Sqlite](database/sqlite.md)
-
+* [Rail新手入门](ruby/README.md)
+	* [Rails 开发环境安装](ruby/rails_setup.md)
+	* [Gems推荐](ruby/gems.md)
+	* [Rspec测试](ruby/Rspec.md)
 * [SSL协议](ssl/README.md)
+	* [OPEN_SSH基本使用](ssl/open_ssh.md) 
 * [参考文档](reference.md)
 
