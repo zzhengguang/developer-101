@@ -40,6 +40,9 @@ Name |  Description  | References
 [faker][017]				| 随机生成测试数据
 [guard-rspec][015] / [spring-commands-rspec][016] | 自动运行测试
 [timecop][021]		| 设定时间范围
+[database_cleaner][023] | 清理测试数据库 | 进行中..
+[capybara][024]	| 功能测试| 进行中..
+[launchy][025] | 打开浏览器 | 进行中..
 
 
 
@@ -65,6 +68,9 @@ Name |  Description  | References
 [020]: https://github.com/seuros/capistrano-puma
 [021]: https://github.com/travisjeffery/timecop
 [022]: https://github.com/javan/whenever
+[023]: https://github.com/DatabaseCleaner/database_cleaner
+[024]: https://github.com/jnicklas/capybara
+[025]: https://github.com/copiousfreetime/launchy
 
 [semantic-ui]: http://semantic-ui.com/
 [slim]: http://slim-lang.com/
