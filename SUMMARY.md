@@ -8,6 +8,8 @@
 * [linux基础命令](linux_basic.md)
 * [mysql](mysql.md)
 * [sql语句](sql.md)
+* [虚拟化新手入门](virtualization/README.md)
+	* [安装系统](ubuntu/vagrant.md)
 * [Ubunt Xenial新手入门](ubuntu/README.md)
     * [安装系统](ubuntu/install.md)
     * [终端](ubuntu/terminal.md)
