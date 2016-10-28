@@ -27,8 +27,8 @@
 	
 #### 控制台命令
 
-* <code>show databases;</code>: 列出所有数据库
-* <code>use [database_name]</code>: 连接其他数据库
-* <code>show tables;</code>: 列出当前数据库的所有表
-* <code>describe tables;</code>: 列出某一张表格的结构
-* <code>exit</code>: 退出控制台
+* `show databases;`: 列出所有数据库
+* `use [database_name];`: 连接其他数据库
+* `show tables;`: 列出当前数据库的所有表
+* `describe tables;`: 列出某一张表格的结构
+* `exit`: 退出控制台
