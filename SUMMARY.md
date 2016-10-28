@@ -9,7 +9,7 @@
 * [mysql](mysql.md)
 * [sql语句](sql.md)
 * [虚拟化新手入门](virtualization/README.md)
-	* [安装系统](ubuntu/vagrant.md)
+	* [Oracle VirtualBox 新手入门](virtualization/virtualbox.md)
 * [Ubunt Xenial新手入门](ubuntu/README.md)
     * [安装系统](ubuntu/install.md)
     * [终端](ubuntu/terminal.md)

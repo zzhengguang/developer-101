@@ -1,8 +1,8 @@
-# VirtualBox 新手入门
+# Oracle VirtualBox 新手入门
 
 ### 介绍
 
-[Oracle Virtualbox][virtualbox] VirtualBox 是一款开源虚拟机软件。由德国 Innotek 公司开发，Sun Microsystems 公司出品。使用Qt编写，在 Sun 被 Oracle 收购后正式更名成 Oracle VM VirtualBox。采用 GPL 协议开源
+[Oracle VirtualBox][virtualbox]  是一款开源虚拟机软件。由德国 Innotek 公司开发，Sun Microsystems 公司出品。使用Qt编写，在 Sun 被 Oracle 收购后正式更名成 Oracle VM VirtualBox。采用 GPL 协议开源
 
 
 
