@@ -3,7 +3,8 @@
 tig 是一款用来查看 提交日志的软件
 
 
-[看日记学git](http://ody0h6rio.bkt.clouddn.com/git_tutorial.pdf)
+* [看日记学git](http://ody0h6rio.bkt.clouddn.com/git_tutorial.pdf)
+* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 #### 安装
 
