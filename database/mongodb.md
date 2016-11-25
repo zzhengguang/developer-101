@@ -11,11 +11,19 @@
 * **Ubuntu**
 
 		#添加MongoDb安装源
-		apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+		sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6
 
-		echo "deb http://repo.mongodb.org/apt/debian wheezy/mongodb-org/3.0 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
+		#Ubuntu 12.04:
+	  	echo "deb http://repo.mongodb.org/apt/ubuntu precise/mongodb-org/testing multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+
+		#Ubuntu 14.04:
+		echo "deb http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/testing multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+
+		#Ubuntu 16.04
+		echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/testing multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+
 		apt-get update
-		apt-get install mongodb-org
+		apt-get install -y mongodb-org
 
 
 * **Mac**
