@@ -30,7 +30,7 @@
 
 ### Vagrant Boxes 介绍
 
-Boxes 是预先制作的虚拟机模板用于快速生成虚拟机，由于网络的原因在后续的操作中会毕较慢，可以使用下载工具预先下载 ( [trusty-adm64][trusty-i386] / [trusty-i386][trusty-i386] )，访问[Vagrant Boxes下载平台](https://atlas.hashicorp.com/boxes/search) 获取更多的模板。
+Boxes 是预先制作的虚拟机模板用于快速生成虚拟机，由于网络的原因在后续的操作中会毕较慢，可以使用下载工具预先下载 ( [ubuntu/trusty64][trusty64] / [ubuntu/xenial64][xenial64] )，访问[Vagrant Boxes下载平台](https://atlas.hashicorp.com/boxes/search) 获取更多的模板。
 
 
 **获取下载地址**
@@ -62,5 +62,5 @@ Boxes 是预先制作的虚拟机模板用于快速生成虚拟机，由于网�
 
 
 
-[trusty-adm64]: https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
-[trusty-i386]: https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/current/trusty-server-cloudimg-i386-vagrant-disk1.box
+[trusty64]: https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
+[xenial64]:https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/xenial/current/xenial-server-cloudimg-amd64-vagrant.box
