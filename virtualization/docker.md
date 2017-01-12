@@ -12,7 +12,21 @@
 	
 **Linux**
 
-	待完善...
+	sudo apt-key adv \
+               --keyserver hkp://ha.pool.sks-keyservers.net:80 \
+               --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
+
+	echo "deb https://apt.dockerproject.org/repo ubuntu-xenial main" \
+		| sudo tee /etc/apt/sources.list.d/docker.list
+	
+	sudo apt-get update
+	
+	sudo apt-get install apt-transport-https ca-certificates \
+		linux-image-extra-$(uname -r) linux-image-extra-virtual \
+		docker-engine
+	
+	# 启动服务	
+	sudo service docker start
 
 
 #### Docker 镜像相关
@@ -20,6 +34,11 @@
 解决下载`docker pull` 镜像速度慢的问题。
 
 `https://ep1dz7wh.mirror.aliyuncs.com`
+
+
+**Ubuntu**
+
+	echo 'DOCKER_OPTS="--registry-mirror=https://ep1dz7wh.mirror.aliyuncs.com' | sudo tee -a /etc/default/docker
 
 * [Docker Hub](https://hub.docker.com/)
 * [Docker加速器 - USTC LUG](https://lug.ustc.edu.cn/wiki/mirrors/help/docker)
