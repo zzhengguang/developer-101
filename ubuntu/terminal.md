@@ -17,3 +17,6 @@
 	粘贴：Ctrl + Shift + V
 
 
+### 切换到管理员
+
+	sudo su
