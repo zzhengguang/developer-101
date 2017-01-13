@@ -24,8 +24,7 @@
 
 	version=`echo $(VBoxManage -v) | awk '{split($0, version, "r"); print version[1]}'`
 	release=`echo $(VBoxManage -v) | awk '{split($0, version, "r"); print version[2]}'`
-	
-	extpack = Oracle_VM_VirtualBox_Extension_Pack-$version-$release.vbox-extpack
+	extpack=Oracle_VM_VirtualBox_Extension_Pack-$version-$release.vbox-extpack
 	curl -o /tmp/$extpack http://download.virtualbox.org/virtualbox/$version/$extpack		
 	VBoxManage extpack install --replace /tmp/$extpack
 
@@ -38,5 +37,5 @@
 
 	
 [virtualbox]: https://www.virtualbox.org/
-[extension]:
+[extension]: https://www.virtualbox.org/wiki/Downloads
 [tsinghua]: https://mirrors.tuna.tsinghua.edu.cn/help/virtualbox/
