@@ -48,6 +48,7 @@
 			"registry-mirrors": ["https://ep1dz7wh.mirror.aliyuncs.com"]
 	}
 	EOD
+	sudo reboot
 
 * [Docker Hub](https://hub.docker.com/)
 * [Docker加速器 - USTC LUG](https://lug.ustc.edu.cn/wiki/mirrors/help/docker)
