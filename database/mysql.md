@@ -15,12 +15,14 @@
 	# 解决 Ubuntu 16.04 上不能直接用 root 用户登录
 	sudo mysql -u root -e "update mysql.user set plugin='mysql_native_password' WHERE User='root';
 	
+	sudo service mysql restart
+	
 **Mac**
 
 	brew install mysql
 	
 	
-#### 登录
+#### 登录(进入控制台)
 
 	mysql -u root
 	
@@ -32,3 +34,4 @@
 * `show tables;`: 列出当前数据库的所有表
 * `describe tables;`: 列出某一张表格的结构
 * `exit`: 退出控制台
+* `set names utf8`: 设置中文显示

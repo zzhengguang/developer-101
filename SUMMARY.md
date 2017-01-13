@@ -5,7 +5,6 @@
 * [GitHub](github.md)
 * [heroku](heroku.md)
 * [linux基础命令](linux_basic.md)
-* [mysql](mysql.md)
 * [sql语句](sql.md)
 * [虚拟化新手入门](virtualization/README.md)
 	* [Oracle VirtualBox 新手入门](virtualization/virtualbox.md)
