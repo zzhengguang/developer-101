@@ -26,18 +26,28 @@
     	docker-engine
 
 	sudo usermod -aG docker $USER
-
+	sudo reboot
+	
+	
 
 #### Docker 镜像相关
 
 解决下载`docker pull` 镜像速度慢的问题。
+
+**Mac**
+
+`Preferences` -> `Advanced` -> `Registry mirrors`
 
 `https://ep1dz7wh.mirror.aliyuncs.com`
 
 
 **Ubuntu**
 
-	echo 'DOCKER_OPTS="--registry-mirror=https://ep1dz7wh.mirror.aliyuncs.com' | sudo tee -a /etc/default/docker
+	sudo tee /etc/docker/daemon.json << EOD
+	{
+	  "registry-mirror": ["https://ep1dz7wh.mirror.aliyuncs.com"]
+	}
+	EOD
 
 * [Docker Hub](https://hub.docker.com/)
 * [Docker加速器 - USTC LUG](https://lug.ustc.edu.cn/wiki/mirrors/help/docker)
