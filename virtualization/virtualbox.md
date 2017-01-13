@@ -22,8 +22,8 @@
 安装 [VirtualBox Extension Pack][extension] 获得更多功能支持(USB、RDP、PXE)。
 
 
-	version=`echo ${VBoxManage -v} | awk '{split($0, versioin, "r"): print version[1]}'`
-	release=`echo ${VBoxManage -v} | awk '{split($0, versioin, "r"): print version[1]}'`
+	version=`echo $(VBoxManage -v) | awk '{split($0, version, "r"); print version[1]}'`
+	release=`echo $(VBoxManage -v) | awk '{split($0, version, "r"); print version[2]}'`
 	
 	extpack = Oracle_VM_VirtualBox_Extension_Pack-$version-$release.vbox-extpack
 	curl -o /tmp/$extpack http://download.virtualbox.org/virtualbox/$version/$extpack		
