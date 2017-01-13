@@ -12,21 +12,8 @@
 	
 **Linux**
 
-	sudo apt-key adv \
-               --keyserver hkp://ha.pool.sks-keyservers.net:80 \
-               --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
-
-	echo "deb https://apt.dockerproject.org/repo ubuntu-xenial main" \
-		| sudo tee /etc/apt/sources.list.d/docker.list
-	
-	sudo apt-get update
-	
-	sudo apt-get install apt-transport-https ca-certificates \
-		linux-image-extra-$(uname -r) linux-image-extra-virtual \
-		docker-engine
-	
-	# 启动服务	
-	sudo service docker start
+	curl -fsSL https://get.docker.com/ | sh
+	sudo usermod -aG docker $USER
 
 
 #### Docker 镜像相关
