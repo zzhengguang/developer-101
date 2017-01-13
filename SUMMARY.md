@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 * [OpenSSH](open_ssh.md)
+* [Git新手入门](git.md)
 * [GitHub](github.md)
+* [参考文档](reference.md)
 * [heroku](heroku.md)
 * [linux基础命令](linux_basic.md)
 * [sql语句](sql.md)
