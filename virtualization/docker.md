@@ -45,7 +45,7 @@
 
 	sudo tee /etc/docker/daemon.json << EOD
 	{
-	  "registry-mirror": ["https://ep1dz7wh.mirror.aliyuncs.com"]
+			"registry-mirrors": ["https://ep1dz7wh.mirror.aliyuncs.com"]
 	}
 	EOD
 
