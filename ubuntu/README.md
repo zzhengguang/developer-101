@@ -37,9 +37,9 @@ LTS（Long Term Suppot）长期支持版本
 
 1. [安装系统](install.md)
 2. [认识终端](terminal.md)
-3. [修改安装源](ubuntu/sources.md)
-4. [软件安装](ubuntu/apt.md)
-5. [中文输入法](ubuntu/chinese_input.md)
-6. [Sublime Text 3 编辑器](ubuntu/sublime.md)
+3. [修改安装源](sources.md)
+4. [软件安装](apt.md)
+5. [中文输入法](chinese_input.md)
+6. [Sublime Text 3 编辑器](sublime.md)
 
 
