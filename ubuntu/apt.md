@@ -1,5 +1,7 @@
 # 软件安装
 
+软件名: `chromium-browser`
+
  更新软件安装源
  
  	sudo apt-get update
