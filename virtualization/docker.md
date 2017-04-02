@@ -1,8 +1,5 @@
 #  Docker 新手入门
 
-### 介绍
-
-[Docker](https://www.docker.com/)
 
 ### 安装
 
@@ -12,31 +9,17 @@
 	
 **Linux**
 
-	sudo apt-key adv \
-           --keyserver hkp://ha.pool.sks-keyservers.net:80 \
-           --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
-
-	echo "deb https://apt.dockerproject.org/repo ubuntu-xenial main" \
-	    | sudo tee /etc/apt/sources.list.d/docker.list
+	# 官方
+	curl -sSL https://get.docker.com/ | sh
 	
-	sudo apt-get update
-	
-	sudo apt-get install apt-transport-https ca-certificates \
-		linux-image-extra-$(uname -r) linux-image-extra-virtual \
-    	docker-engine
-
-	sudo usermod -aG docker $USER
-	sudo reboot
-	
-	
-
-#### Docker 镜像相关
-
-解决下载`docker pull` 镜像速度慢的问题。
+	# aliyun
+	curl -sSL http://acs-public-mirror.oss-cn-hangzhou.aliyuncs.com/docker-engine/internet | sh -
+		
+### 镜像加速器
 
 **Mac**
 
-`Preferences` -> `Advanced` -> `Registry mirrors`
+`Preferences` -> `Daemon` -> `Basic` -> `Registry mirrors`
 
 `https://ep1dz7wh.mirror.aliyuncs.com`
 
@@ -45,16 +28,19 @@
 
 	sudo tee /etc/docker/daemon.json << EOD
 	{
-			"registry-mirrors": ["https://ep1dz7wh.mirror.aliyuncs.com"]
+		"registry-mirrors": ["https://ep1dz7wh.mirror.aliyuncs.com"]
 	}
 	EOD
-	sudo reboot
+	
+Ubuntu 16.04、Debian 8 Jessie、CentOS 7
 
-* [Docker Hub](https://hub.docker.com/)
-* [Docker加速器 - USTC LUG](https://lug.ustc.edu.cn/wiki/mirrors/help/docker)
-* [Docker加速器 - aliyun](dev.aliyun.com)(需要注册) [现在注册](https://cr.console.aliyun.com/)
-* [Docker私有镜像库 - aliyun](https://help.aliyun.com/knowledge_detail/40557.html)
+	sudo systemctl daemon-reload
+	sudo systemctl restart docker
+	
+Ubuntu 14.04、Debian 7 Wheezy
 
+	sudo service docker restart
+	
 
 ### 常用命令
 
@@ -123,10 +109,13 @@
 
 
 
-### 替换安装源
+### Dockerfile 替换安装源
+
+	# alpine
+	sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories
 
 	# debian
-	RUN sed -i 's/httpredir.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list
+	sed -i 's/deb.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list
 	
 	# ubuntu
 	RUN sed -i 's/archive.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
@@ -135,11 +124,9 @@
 	
 				&& rm -rf /var/lib/apt/lists/*
 	
-	
-
-
 
 #### 推荐资料
 
+* [Docker 官方网站](https://www.docker.com/)
 * [Docker — 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
-* [Docker Compose and Rails](https://docs.docker.com/compose/rails/)
+
