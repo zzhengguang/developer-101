@@ -19,9 +19,12 @@
 
 **Mac**
 
+https://cr.console.aliyun.com
+
 `Preferences` -> `Daemon` -> `Basic` -> `Registry mirrors`
 
-`https://ep1dz7wh.mirror.aliyuncs.com`
+`https://ep1dz7wh.mirror.aliyuncs.com` - bianfu
+`https://40313q4b.mirror.aliyuncs.com` - guxiaobai
 
 
 **Ubuntu**
