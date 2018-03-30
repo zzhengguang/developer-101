@@ -12,12 +12,14 @@
 
 本例以Ubuntu 16.04为例，其他 Linux 版本 请参照[VirtualBox 镜像使用帮助][tsinghua]
 
+	sudo apt-get update
+	sudo apt-get install -y apt-transport-https wget curl
+
 	wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
-	
 	echo  "deb https://mirrors.tuna.tsinghua.edu.cn/virtualbox/apt/ xenial contrib" | sudo tee -a /etc/apt/sources.list.d/virtualbox.list
 	
 	sudo apt-get update
-	sudo apt-get install virtualbox-5.1
+	sudo apt-get install -y virtualbox-$(curl -fsSL  https://mirrors.tuna.tsinghua.edu.cn/virtualbox/LATEST.TXT)
 	
 安装 [VirtualBox Extension Pack][extension] 获得更多功能支持(USB、RDP、PXE)。
 
@@ -25,7 +27,7 @@
 	version=`echo $(VBoxManage -v) | awk '{split($0, version, "r"); print version[1]}'`
 	release=`echo $(VBoxManage -v) | awk '{split($0, version, "r"); print version[2]}'`
 	extpack=Oracle_VM_VirtualBox_Extension_Pack-$version-$release.vbox-extpack
-	curl -o /tmp/$extpack http://download.virtualbox.org/virtualbox/$version/$extpack		
+	curl -o /tmp/$extpack https://mirrors.tuna.tsinghua.edu.cn/virtualbox/$version/$extpack
 	VBoxManage extpack install --replace /tmp/$extpack
 
 
