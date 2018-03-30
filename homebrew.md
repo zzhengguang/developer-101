@@ -15,8 +15,10 @@
 	
 **常用命令**
 
-* `brew install <name>` 安装命令行软件
-* `brew cask install <name>` 安装带界面的软件
+* `brew search <keyword>`: 根据关键词搜索命令行软件
+* `brew install <name>`: 安装命令行软件
+* `brew cask search <keyword>`: 根据关键词搜索带界面的软件
+* `brew cask install <name>`:  安装带界面的软件
 
 **常用软件**
 
@@ -33,14 +35,14 @@
 * [LibreOffice - 办公软件](https://www.libreoffice.org) - `LibreOffice`
 * [IINA - 视频播放器](https://lhc70000.github.io/iina/) - `iina`
 * [Folx - 下载工具](https://mac.eltima.com/download-manager.html) - `Folx`
+* [Google Chrome - 谷歌浏览器](https://www.google.com/chrome/) - `google-chrome`
+* [Mozilla Firefox - 火狐浏览器](https://www.mozilla.org/firefox/) - `firefox`
+* [PDF Expert - PDF阅读 - 收费](https://pdfexpert.com/) - `pdfexpert`
 
 
 **开发相关**
 
-* [Google Chrome - 谷歌浏览器](https://www.google.com/chrome/) - `google-chrome`
-* [Mozilla Firefox - 火狐浏览器](https://www.mozilla.org/firefox/) - `firefox`
 * [Insomnia - API调试](https://insomnia.rest/) - `insomnia`
-* [PDF Expert - PDF阅读 - 收费](https://pdfexpert.com/) - `pdfexpert`
 * [Charles - HTTP抓包 - 收费](https://www.charlesproxy.com/) - `charles`
 * [Wireshark - 网络抓包](https://www.wireshark.org/) - `wireshark`
 * [GNS3 - 网络模拟软件](https://www.gns3.com/) - `gns3`
@@ -63,7 +65,6 @@
 * [Docker CE](https://www.docker.com/community-edition) - `docker`
 * [XQuartz - X11](https://www.xquartz.org/) - `xquartz`
 
-	
 
 
 **参考资料**
