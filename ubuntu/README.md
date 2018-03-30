@@ -30,7 +30,7 @@ LTS（Long Term Suppot）长期支持版本
 
 #### 准备工作
 
-下载 [ubuntu-16.04.1-desktop-amd64.iso](http://mirrors.163.com/ubuntu-releases/16.04.1/ubuntu-16.04.1-desktop-amd64.iso)
+下载 [ubuntu-16.04.4-desktop-amd64.iso](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/16.04.4/ubuntu-16.04.4-desktop-amd64.iso)
 
 
 #### 相关教程
