@@ -1,4 +1,4 @@
-# Ubunt Xenial 新手入门
+# Ubuntn Xenial 新手入门
 
 #### 简介
 
