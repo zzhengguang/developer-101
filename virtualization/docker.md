@@ -9,29 +9,25 @@
 	
 **Linux**
 
-	# 官方
-	curl -sSL https://get.docker.com/ | sh
+	curl -fsSL get.docker.com -o get-docker.sh
+	sudo sh get-docker.sh --mirror Aliyun
 	
-	# aliyun
-	curl -sSL http://acs-public-mirror.oss-cn-hangzhou.aliyuncs.com/docker-engine/internet | sh -
+	sudo usermod -aG docker $USER
+
 		
 ### 镜像加速器
 
 **Mac**
 
-https://cr.console.aliyun.com
-
 `Preferences` -> `Daemon` -> `Basic` -> `Registry mirrors`
 
-`https://ep1dz7wh.mirror.aliyuncs.com` - bianfu
-`https://40313q4b.mirror.aliyuncs.com` - guxiaobai
-
+`https://docker.mirrors.ustc.edu.cn/`
 
 **Ubuntu**
 
 	sudo tee /etc/docker/daemon.json << EOD
 	{
-		"registry-mirrors": ["https://ep1dz7wh.mirror.aliyuncs.com"]
+		"registry-mirrors": ["https://docker.mirrors.ustc.edu.cn/"]
 	}
 	EOD
 	
@@ -40,9 +36,6 @@ Ubuntu 16.04、Debian 8 Jessie、CentOS 7
 	sudo systemctl daemon-reload
 	sudo systemctl restart docker
 	
-Ubuntu 14.04、Debian 7 Wheezy
-
-	sudo service docker restart
 	
 
 ### 常用命令
@@ -132,4 +125,5 @@ Ubuntu 14.04、Debian 7 Wheezy
 
 * [Docker 官方网站](https://www.docker.com/)
 * [Docker — 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
+* [Docker Hub 源使用帮助](http://mirrors.ustc.edu.cn/help/dockerhub.html)
 
