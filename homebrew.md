@@ -2,8 +2,8 @@
 
 **准备工作**
 
-	xcode-select --install
-	sudo spctl --master-disable
+* `xcode-select --install`
+* `sudo spctl --master-disable` - [OS X：关于 Gatekeeper](https://support.apple.com/zh-cn/HT202491)
 
 **安装**
 
@@ -11,6 +11,7 @@
 	brew tap caskroom/cask
 	
 	echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles' >> ~/.bash_profile
+	echo "export HOMEBREW_NO_AUTO_UPDATE=1" | tee -a ~/.bash_profile
 	source ~/.bash_profile
 	
 **常用命令**
