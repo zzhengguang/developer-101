@@ -36,9 +36,10 @@
 * [LibreOffice - 办公软件](https://www.libreoffice.org) - `LibreOffice`
 * [IINA - 视频播放器](https://lhc70000.github.io/iina/) - `iina`
 * [Folx - 下载工具](https://mac.eltima.com/download-manager.html) - `Folx`
+* [迅雷](http://mac.xunlei.com/) - `thunder`
 * [Google Chrome - 谷歌浏览器](https://www.google.com/chrome/) - `google-chrome`
 * [Mozilla Firefox - 火狐浏览器](https://www.mozilla.org/firefox/) - `firefox`
-* [PDF Expert - PDF阅读 - 收费](https://pdfexpert.com/) - `pdfexpert`
+* [PDF Expert - PDF阅读 - 收费](https://pdfexpert.com/) - `pdf-expert`
 
 
 **开发相关**
