@@ -2,8 +2,10 @@
 
 ## 参考资料
 
+* [Ansible快速入门：技术原理与实战](http://getansible.com/)
 * [現代 IT 人一定要知道的 Ansible 自動化組態技巧](https://github.com/chusiang/automate-with-ansible)
 * [30 天入門 Ansible 及 Jenkins [2018]](https://ithelp.ithome.com.tw/users/20103346/ironman/1473)
+
 
 
 ### 相关资源
