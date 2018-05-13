@@ -6,6 +6,7 @@
 ## 资源
 
 * [微PE工具箱 - 最好用的WinPE装机维护工具](http://www.wepe.com.cn/)
+* [Dism++，也许是最强的实用工具](https://www.chuyu.me/zh-Hans/index.html)
 * [MSDN, 我告诉你](https://msdn.itellyou.cn/)
 * [kmspico](https://www.reddit.com/r/MSToolkit/comments/7bsbz0/kmspico_1020_download/) - 激活工具
 
