@@ -13,6 +13,8 @@
 	sudo sh get-docker.sh --mirror Aliyun
 	
 	sudo usermod -aG docker $USER
+	
+	# docker-compose: https://github.com/docker/compose/releases
 
 		
 ### 镜像加速器
