@@ -35,3 +35,9 @@
 * `describe tables;`: 列出某一张表格的结构
 * `exit`: 退出控制台
 * `set names utf8`: 设置中文显示
+
+
+
+### 相关问题
+
+* [mysql5.7导出数据提示--secure-file-priv选项问题的解决方法](https://blog.csdn.net/fdipzone/article/details/78634992)
