@@ -41,3 +41,4 @@
 ### 相关问题
 
 * [mysql5.7导出数据提示--secure-file-priv选项问题的解决方法](https://blog.csdn.net/fdipzone/article/details/78634992)
+* [MySQL 5.1 中文参考手册(在线文档)](http://www.mysqlab.net/docs/view/refman-5.1-zh/chapter/index.html)

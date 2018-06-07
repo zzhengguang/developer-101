@@ -70,3 +70,12 @@
     ：q           退出
     ：q!          强制退出
     ：wq          保存并退出
+    
+    
+### 参考资料
+
+
+* [Linux基础概要](https://legacy.gitbook.com/book/abcfy2/linux_basic/details)
+* [Linux基础](http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
+* [Linux命令大全](http://man.linuxde.net/)
+* `https://thief.one/2017/08/08/1/`
