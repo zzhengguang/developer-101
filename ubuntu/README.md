@@ -30,7 +30,7 @@ LTS（Long Term Suppot）长期支持版本
 
 #### 准备工作
 
-下载 [ubuntu-16.04.4-desktop-amd64.iso](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/16.04.4/ubuntu-16.04.4-desktop-amd64.iso)
+下载 [ubuntu-16.04.4-desktop-amd64.iso](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/16.04.4/ubuntu-16.04.4-desktop-amd64.iso) / [制作USB安装盘](https://wiki.archlinux.org/index.php/USB_flash_installation_media_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 
 
 #### 相关教程
