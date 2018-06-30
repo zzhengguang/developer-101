@@ -21,8 +21,7 @@
 
 * [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-* [Guides](https://webpack.js.org/guides/)
-* [指南](https://doc.webpack-china.org/guides/)
+
 * [Webpack3.X版 成神之路 全网首发 (共24集)](http://jspang.com/2017/09/16/webpack3-2/)
 
 ## react

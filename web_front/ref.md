@@ -4,10 +4,12 @@
 * [SPA]
 * [pwa]
 
+
+
 ## 学习资料
 
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-* [webpack 3 零基础入门教程](https://love2.io/@hfpp2012/doc/webpack-tutorial)
+* [webpack 3 零基础入门教程](https://love2.io/@hfpp2012/doc/webpack-tutorial) / [视频课程](https://www.rails365.net/playlists/webpack-3-ling-ji-chu-ru-men-shi-pin-jiao-cheng)
 * [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 * [阮一峰 JavaScript](http://www.ruanyifeng.com/blog/javascript/)
 
@@ -17,7 +19,7 @@
 
 * [Node.js](https://nodejs.org/)
 * [Yarn](https://yarnpkg.com/lang/en/)
-* [Babel](https://babeljs.io/)
+* [Babel](https://babeljs.io/) / [Babel 中文](https://www.babeljs.cn/)
 * [webpack](https://webpack.js.org/) / [webpack 中文文档](https://webpack.js.org/)
 * [React](https://reactjs.org/) / [React 中文文档](https://doc.react-china.org/)
 * [dvajs](https://dvajs.com/)
@@ -61,6 +63,7 @@
 * [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 * [Sass](https://sass-lang.com/)
 * [less](http://lesscss.org/)
+* [stylus](http://stylus-lang.com/)
 * [PostCss](https://postcss.org/)
 * [css-blocks](https://github.com/linkedin/css-blocks)
 
@@ -104,6 +107,17 @@
 * [dayjs](https://github.com/iamkun/dayjs) - `日期解析`
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - `生成PDF`
 * [crypto-js](https://github.com/brix/crypto-js) - `加密`
+
+
+### Redux
+
+* [React-router4]
+
+
+**中间件原理**
+
+* [Redux-thunk]
+* [Redux-saga]
 
 
 
