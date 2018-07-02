@@ -47,6 +47,7 @@
 
 * [json-server](https://github.com/typicode/json-server)
 * [faker.js](https://github.com/marak/Faker.js/)
+* [前端模拟 API 数据的两种方式](https://www.rails365.net/movies/react-ji-chu-shi-jian-pian-xiao-xing-cai-wu-xi-tong-3-qian-duan-mo-ni-api-shu-ju-de-liang-zhong-fang-shi)
 * [mockAPI](http://www.mockapi.io/)
 * [JSON Generator](https://www.json-generator.com/)
 * [Charles 代理工具分享](https://github.com/gzrichard/charles-share)
