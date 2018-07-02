@@ -38,8 +38,19 @@
 
 * [ESLint](https://eslint.org/)
 * [Flow](https://flow.org/en/) / [Flow 中文](https://zhenyong.github.io/flowtype/)
-* [Mock.js](https://github.com/nuysoft/Mock) - `生成接口数据`
+* 
 * [docz](https://github.com/pedronauck/docz) - `文档管理`
+
+
+
+### 开发接口数据
+
+* [json-server](https://github.com/typicode/json-server)
+* [faker.js](https://github.com/marak/Faker.js/)
+* [mockAPI](http://www.mockapi.io/)
+* [JSON Generator](https://www.json-generator.com/)
+* [Charles 代理工具分享](https://github.com/gzrichard/charles-share)
+* [弃用][Mock.js](https://github.com/nuysoft/Mock) - `生成接口数据`
 
 
 ### 测试相关
@@ -79,6 +90,7 @@
 
 ### HTTP Client
 
+* [使用 Fetch - Web API 接口](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
 * [fetch](https://github.com/github/fetch)
 * [axios](https://github.com/axios/axios)
 
