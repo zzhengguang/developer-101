@@ -12,6 +12,7 @@
 * [webpack 3 零基础入门教程](https://love2.io/@hfpp2012/doc/webpack-tutorial) / [视频课程](https://www.rails365.net/playlists/webpack-3-ling-ji-chu-ru-men-shi-pin-jiao-cheng)
 * [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 * [阮一峰 JavaScript](http://www.ruanyifeng.com/blog/javascript/)
+* [Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
 
 
@@ -45,9 +46,9 @@
 
 ### 开发接口数据
 
+* [前端模拟 API 数据的两种方式](https://www.rails365.net/movies/react-ji-chu-shi-jian-pian-xiao-xing-cai-wu-xi-tong-3-qian-duan-mo-ni-api-shu-ju-de-liang-zhong-fang-shi)
 * [json-server](https://github.com/typicode/json-server)
 * [faker.js](https://github.com/marak/Faker.js/)
-* [前端模拟 API 数据的两种方式](https://www.rails365.net/movies/react-ji-chu-shi-jian-pian-xiao-xing-cai-wu-xi-tong-3-qian-duan-mo-ni-api-shu-ju-de-liang-zhong-fang-shi)
 * [mockAPI](http://www.mockapi.io/)
 * [JSON Generator](https://www.json-generator.com/)
 * [Charles 代理工具分享](https://github.com/gzrichard/charles-share)
@@ -57,8 +58,12 @@
 ### 测试相关
 
 * [Mocha](https://mochajs.org/) - `测试框架`
-* [Istanbul](https://istanbul.js.org/) - `代码覆盖率工具`
 * [Chai](http://www.chaijs.com/) - `断言库`
+* [sinonjs](http://sinonjs.org/)
+* [Karma](http://karma-runner.github.io/2.0/index.html) - `测试任务管理`
+* [nyc](https://istanbul.js.org/) - `Istanbul 2.0`
+* [Istanbul](https://istanbul.js.org/) - `代码覆盖率工具`
+
 
 
 
