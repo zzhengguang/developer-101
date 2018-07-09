@@ -6,6 +6,14 @@
 
 
 
+
+## React 全家桶
+
+* [React](https://reactjs.org/) / [React 中文文档](https://doc.react-china.org/)
+* [React Router](https://github.com/ReactTraining/react-router)
+
+
+
 ## 学习资料
 
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
@@ -13,6 +21,7 @@
 * [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 * [阮一峰 JavaScript](http://www.ruanyifeng.com/blog/javascript/)
 * [Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+* [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
 
 
 
@@ -22,7 +31,7 @@
 * [Yarn](https://yarnpkg.com/lang/en/)
 * [Babel](https://babeljs.io/) / [Babel 中文](https://www.babeljs.cn/)
 * [webpack](https://webpack.js.org/) / [webpack 中文文档](https://webpack.js.org/)
-* [React](https://reactjs.org/) / [React 中文文档](https://doc.react-china.org/)
+
 * [dvajs](https://dvajs.com/)
 * [Vue]
 * [Angular]
