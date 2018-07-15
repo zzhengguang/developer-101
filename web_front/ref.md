@@ -10,9 +10,20 @@
 ## React 全家桶
 
 * [React](https://reactjs.org/) / [React 中文文档](https://doc.react-china.org/)
-* [React Router](https://github.com/ReactTraining/react-router)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux](https://redux.js.org/) / [Redux 中文文档](http://cn.redux.js.org/)
+* [Redux DevTools Extension](http://extension.remotedev.io/)
+* [React Router](https://github.com/ReactTraining/react-router) / [React Router V4 中文文档](http://reacttraining.cn)
+* [redux-thunk](https://github.com/reduxjs/redux-thunk)
+* [redux-saga](https://github.com/redux-saga/redux-saga)
+* [styled-components](https://github.com/styled-components/styled-components)
 
 
+
+## immutable-js
+
+* [immutable-js](https://facebook.github.io/immutable-js/)
+* [redux-immutable](https://github.com/gajus/redux-immutable)
 
 ## 学习资料
 
@@ -22,6 +33,7 @@
 * [阮一峰 JavaScript](http://www.ruanyifeng.com/blog/javascript/)
 * [Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 * [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
+* [JavaScript Promise迷你书](http://liubin.org/promises-book/)
 
 
 
@@ -31,12 +43,10 @@
 * [Yarn](https://yarnpkg.com/lang/en/)
 * [Babel](https://babeljs.io/) / [Babel 中文](https://www.babeljs.cn/)
 * [webpack](https://webpack.js.org/) / [webpack 中文文档](https://webpack.js.org/)
-
 * [dvajs](https://dvajs.com/)
 * [Vue]
 * [Angular]
 * [Elm]
-* [Redux](https://redux.js.org/) / [Redux 中文文档](http://cn.redux.js.org/)
 * [Electron](https://electronjs.org/)
 * [Font Awesome](https://fontawesome.com/)
 * [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
@@ -48,7 +58,6 @@
 
 * [ESLint](https://eslint.org/)
 * [Flow](https://flow.org/en/) / [Flow 中文](https://zhenyong.github.io/flowtype/)
-* 
 * [docz](https://github.com/pedronauck/docz) - `文档管理`
 
 
@@ -92,6 +101,14 @@
 * [stylus](http://stylus-lang.com/)
 * [PostCss](https://postcss.org/)
 * [css-blocks](https://github.com/linkedin/css-blocks)
+* [normalize.css](https://github.com/necolas/normalize.css/)
+* [css兼容性查看](https://caniuse.com/)
+
+**阅读**
+
+*  关于CSS Reset 那些事 [1](https://segmentfault.com/a/1190000003021766), [2](https://segmentfault.com/a/1190000003025718), [3](https://segmentfault.com/a/1190000003028985), [4](https://segmentfault.com/a/1190000003055238)
+
+
 
 
 
@@ -145,6 +162,16 @@
 
 * [Redux-thunk]
 * [Redux-saga]
+
+
+## 其他
+
+* [lerna](https://github.com/lerna/lerna)
+
+## github
+
+* [GitHub Pages](https://pages.github.com/)
+* [gh-pages](https://github.com/tschaub/gh-pages)
 
 
 
