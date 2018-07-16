@@ -6,7 +6,6 @@
 ## 基础部分
 
 * [安装](install.md)
-* [配置](config.md)
 * [工具](tools.md)
 
 **学习资料**
