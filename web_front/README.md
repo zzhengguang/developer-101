@@ -23,20 +23,11 @@
 
 * [Webpack3.X版 成神之路 全网首发 (共24集)](http://jspang.com/2017/09/16/webpack3-2/)
 
-## react
 
-	yarn global add create-react-app
-	create-react-app my-app
-	yarn start
-	
-* Redux
-* React-router
 
 
 **学习资料**
 
-* [React](https://reactjs.org/)
-* [React中文文档](https://doc.react-china.org/)
 * [React.js 小书](http://huziketang.mangojuice.top/books/react/) - `3zJG70XchJ`
 * [react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 

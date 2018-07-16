@@ -15,7 +15,7 @@
 * [Redux DevTools Extension](http://extension.remotedev.io/)
 * [React Router](https://github.com/ReactTraining/react-router) / [React Router V4 中文文档](http://reacttraining.cn)
 * [redux-thunk](https://github.com/reduxjs/redux-thunk)
-* [redux-saga](https://github.com/redux-saga/redux-saga)
+* [redux-saga](https://github.com/redux-saga/redux-saga)/ [中文文档](https://redux-saga-in-chinese.js.org/)
 * [styled-components](https://github.com/styled-components/styled-components)
 
 
@@ -167,6 +167,7 @@
 ## 其他
 
 * [lerna](https://github.com/lerna/lerna)
+* [yeoman](http://yeoman.io/)
 
 ## github
 
