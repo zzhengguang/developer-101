@@ -39,8 +39,8 @@
 
 ### 相关资源
 
-* [Node.js](https://nodejs.org/)
-* [Yarn](https://yarnpkg.com/lang/en/)
+* [*] [Node.js](https://nodejs.org/)
+* [*] [Yarn](https://yarnpkg.com/lang/en/)
 * [Babel](https://babeljs.io/) / [Babel 中文](https://www.babeljs.cn/)
 * [webpack](https://webpack.js.org/) / [webpack 中文文档](https://webpack.docschina.org/)
 * [dvajs](https://dvajs.com/)
