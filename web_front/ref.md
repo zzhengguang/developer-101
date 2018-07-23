@@ -16,7 +16,10 @@
 * [React Router](https://github.com/ReactTraining/react-router) / [React Router V4 中文文档](http://reacttraining.cn)
 * [redux-thunk](https://github.com/reduxjs/redux-thunk)
 * [redux-saga](https://github.com/redux-saga/redux-saga)/ [中文文档](https://redux-saga-in-chinese.js.org/)
+* [redux-logger](https://github.com/evgenyrodionov/redux-logger)
 * [styled-components](https://github.com/styled-components/styled-components)
+* [redux-actions](https://github.com/redux-utilities/redux-actions)
+* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 拖动库
 
 
 
@@ -34,6 +37,10 @@
 * [Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 * [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
 * [JavaScript Promise迷你书](http://liubin.org/promises-book/)
+* [Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+* [Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
+* [Redux 入门教程（三）：React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+* [Redux异步方案选型](https://segmentfault.com/a/1190000007248878)
 
 
 
@@ -50,6 +57,7 @@
 * [Electron](https://electronjs.org/)
 * [Font Awesome](https://fontawesome.com/)
 * [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
+* [JS bin](http://jsbin.com/)
 
 
 
