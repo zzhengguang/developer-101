@@ -58,6 +58,8 @@
 * [Font Awesome](https://fontawesome.com/)
 * [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 * [JS bin](http://jsbin.com/)
+* [pm2](http://pm2.keymetrics.io/)
+* [nodemon](https://github.com/remy/nodemon)
 
 
 
