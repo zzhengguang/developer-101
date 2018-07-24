@@ -22,11 +22,12 @@ LTS（Long Term Suppot）长期支持版本
 
 ####  常用版本介绍
 
+[发行说明](https://wiki.ubuntu.com/Releases)
+
 版本号 | 代号| 发布时间
 ----------|------------------------------------------|---------------|
-16.04 LTS | Xenial Xerus <code>好客的非洲地松鼠</code> | 2016/4/20
-14.04 LTS | Trusty Tahr <code>值得信赖的塔尔羊</code>  | 2014/04/18
-12.04 LTS | Precise Pangolin <code>精准的穿山甲</code> | 2012/04/26
+18.04 LTS | Bionic Beaver `仿生海狸` | April 26, 2018
+16.04.4 LTS | Xenial Xerus `好客的非洲地松鼠` | March 1, 2018
 
 #### 准备工作
 
