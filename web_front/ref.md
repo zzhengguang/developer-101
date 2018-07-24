@@ -23,6 +23,13 @@
 * [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 * [Under the hood: React](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - `漂亮,可移植性 列表拖拽库`
+* [react-app-rewired](https://github.com/timarney/react-app-rewired)
+
+**tips**
+
+* [Fragments](https://reactjs.org/docs/fragments.html)
+* [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+* [componentDidMount](https://reactjs.org/docs/react-component.html#componentdidmount) - `Ajax 数据拉取、定时器的启动`
 
 
 ## Redux
