@@ -18,3 +18,12 @@
 * [阿里巴巴开源镜像站](https://opsx.alibaba.com/)
 * [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 * [中国科学技术大学开源软件镜像](http://mirrors.ustc.edu.cn/)
+
+
+### 常用命令
+
+**Ubuntu**
+
+
+	sed -i 's/archive.ubuntu.com/mirrors.ustc.edu.cn/g' /etc/apt/sources.list
+	sed -i 's/security.ubuntu.com/mirrors.ustc.edu.cn/g' /etc/apt/sources.list
