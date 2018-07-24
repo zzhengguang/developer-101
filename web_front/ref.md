@@ -22,8 +22,15 @@
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 * [Under the hood: React](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
-* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - `漂亮,可移植性 列表拖拽库`
+
+
+
+**插件**
+
+* [create-react-app](https://github.com/facebook/create-react-app)
 * [react-app-rewired](https://github.com/timarney/react-app-rewired)
+* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - `漂亮,可移植性 列表拖拽库`
+* [react-transition-group](https://github.com/reactjs/react-transition-group)
 
 **tips**
 
