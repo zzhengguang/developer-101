@@ -11,7 +11,7 @@
 **Linux**
 
 	curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
-	sed -i 's,https://deb.nodesource.com/node/,https://mirrors.tuna.tsinghua.edu.cn/nodesource/deb/'  /etc/apt/sources.list.d/nodesource.list
+	sed -i 's,https://deb.nodesource.com/node/,http://mirrors.ustc.edu.cn/nodesource/deb/'  /etc/apt/sources.list.d/nodesource.list
 	sudo apt-get install -y nodejs
 
 
@@ -40,4 +40,5 @@
 * [Nodesource 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/nodesource/)
 * [Yarn install](https://yarnpkg.com/lang/en/docs/install/)
 * [在中国，安装 & 升级 npm 依赖的正确方法](https://sebastianblade.com/the-truly-way-to-install-upgrade-npm-dependency-in-china/)
+* [nodesource/distributions](https://github.com/nodesource/distributions)
 
