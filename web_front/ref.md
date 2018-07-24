@@ -41,6 +41,12 @@
 * [Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
 * [Redux 入门教程（三）：React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
 * [Redux异步方案选型](https://segmentfault.com/a/1190000007248878)
+* [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
+* [深入掌握 ECMAScript 6 异步编程](http://www.ruanyifeng.com/blog/2015/04/generator.html)
+* * [Redux Saga实践](http://yanqiw.github.io/react/2017/03/05/redux-saga.html)
+* [从redux-thunk到redux-saga实践](https://github.com/Pines-Cheng/blog/issues/9)
+* [redux-saga 初级学习教程](https://www.jianshu.com/p/f3c7594c4fb4)
+
 
 
 
@@ -160,22 +166,6 @@
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - `生成PDF`
 * [crypto-js](https://github.com/brix/crypto-js) - `加密`
 
-
-### Redux
-
-* [React-router4]
-
-
-**中间件原理**
-
-* [Redux-thunk]
-* [Redux-saga]
-
-
-## 其他
-
-* [lerna](https://github.com/lerna/lerna)
-* [yeoman](http://yeoman.io/)
 
 ## github
 
