@@ -1,0 +1,34 @@
+# 爬虫相关
+
+
+### 参考书籍
+
+* [Python网络数据采集](https://book.douban.com/subject/26740503/)
+* [用Python写网络爬虫](https://book.douban.com/subject/26869992/)
+
+### 参考资料
+
+* [使用 Node.js 模拟滑动验证码操作](https://blog.oldj.net/2017/11/01/captcha-trick/)
+* [如何⼊⻔爬⾍](https://zhuanlan.zhihu.com/p/21479334)
+* [网络爬虫教程](https://piaosanlang.gitbooks.io/spiders/content/)
+* [Scrapy](https://scrapy.org/) / [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.io/zh_CN/latest/)
+* [Scrapyd](http://scrapyd.readthedocs.io/en/stable/)
+* [scrapyd-client](https://github.com/scrapy/scrapyd-client)
+* [python-scrapyd-api](http://python-scrapyd-api.readthedocs.io/en/latest/)
+* [使用scrapyd-client部署分布式爬虫服务器](http://pastandnow.com/2015/11/16/Use-Scrapyd-client-Deploy-Spider/)
+* [scrapy-redis](https://github.com/rmax/scrapy-redis)
+* [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper)
+* [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash)
+* [如何抓取中国人民银行调查统计司的数据](https://www.xusheng.org/blog/2016/10/19/ru-he-zhua-qu-diao-cha-tong-ji-si-de-shu-ju/) - `请开启JavaScript并刷新该页`
+* [邮件发送错误](https://github.com/scrapy/scrapy/pull/2671)
+* [Python程序员从小白到大神必读资料汇总](http://www.ituring.com.cn/article/211281)
+* [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping/blob/master/python.md) - [Python 爬虫的工具列表大全](http://www.aizhuanji.com/a/2wmE4qdw.html)
+
+
+### 相关技术
+
+* [puppeteer](https://github.com/GoogleChrome/puppeteer)
+* [Resemble.js](https://github.com/HuddleEng/Resemble.js)
+* [node-canvas](https://github.com/Automattic/node-canvas)
+
+
