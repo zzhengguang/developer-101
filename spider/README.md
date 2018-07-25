@@ -32,3 +32,6 @@
 * [node-canvas](https://github.com/Automattic/node-canvas)
 
 
+### 其他技术配合
+
+* `gooogle 正向代理 高匿代理`
