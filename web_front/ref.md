@@ -66,7 +66,7 @@
 
 ## immutable-js
 
-* [immutable-js](https://facebook.github.io/immutable-js/)
+* [immutable-js](https://github.com/facebook/immutable-js/)
 * [redux-immutable](https://github.com/gajus/redux-immutable)
 
 ## 学习资料
