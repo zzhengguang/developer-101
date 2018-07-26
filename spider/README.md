@@ -5,9 +5,12 @@
 
 * [Python网络数据采集](https://book.douban.com/subject/26740503/)
 * [用Python写网络爬虫](https://book.douban.com/subject/26869992/)
+* [精通Python爬虫框架Scrapy](https://www.epubit.com/book/detail/18292)
 
 ### 参考资料
 
+* [Python3网络爬虫开发实战教程](https://cuiqingcai.com/5052.html)
+* [小白学爬虫系列教程](https://cuiqingcai.com/4352.html)
 * [使用 Node.js 模拟滑动验证码操作](https://blog.oldj.net/2017/11/01/captcha-trick/)
 * [如何⼊⻔爬⾍](https://zhuanlan.zhihu.com/p/21479334)
 * [网络爬虫教程](https://piaosanlang.gitbooks.io/spiders/content/)
@@ -23,6 +26,7 @@
 * [邮件发送错误](https://github.com/scrapy/scrapy/pull/2671)
 * [Python程序员从小白到大神必读资料汇总](http://www.ituring.com.cn/article/211281)
 * [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping/blob/master/python.md) - [Python 爬虫的工具列表大全](http://www.aizhuanji.com/a/2wmE4qdw.html)
+* [Python_Master_Courses](https://github.com/makelove/Python_Master_Courses)
 
 
 ### 相关技术

@@ -99,6 +99,7 @@
 * [JS bin](http://jsbin.com/)
 * [pm2](http://pm2.keymetrics.io/)
 * [nodemon](https://github.com/remy/nodemon)
+* [serve](https://github.com/zeit/serve)
 
 
 
