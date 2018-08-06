@@ -7,6 +7,11 @@
 * [DvaJS知识地图](https://dvajs.com/knowledgemap/)
 
 
+## tips
+
+* `more tools` -> `Rendering` -> `Paint flashing`(基础篇 #9 react 如何更新 dom)
+
+
 ## ES6
 
 * [MDN - 重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -29,8 +34,10 @@
 
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [react-app-rewired](https://github.com/timarney/react-app-rewired)
+* [custom-react-scripts](https://github.com/kitze/custom-react-scripts)
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - `漂亮,可移植性 列表拖拽库`
 * [react-transition-group](https://github.com/reactjs/react-transition-group)
+* [classnames](https://github.com/JedWatson/classnames)
 
 **tips**
 

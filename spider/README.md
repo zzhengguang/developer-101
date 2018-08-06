@@ -4,9 +4,15 @@
 
 ## Scrapy
 
-* [Scrapy](https://scrapy.org/) / [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.io/zh_CN/latest/) / [Scrapy 1.3 文档](https://www.rddoc.com/doc/Scrapy/1.3/zh/)
+* [Scrapy](https://scrapy.org/) / [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.io/zh_CN/latest/)
 * [从源码开始学习Scrapy](https://blog.csdn.net/column/details/22621.html)
 * [scrapy爬虫学习系列](http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_007_scrapy01.html)
+
+
+## 反爬策略
+
+* [字体反爬]
+* [关于反爬虫，看这一篇就够了](https://segmentfault.com/a/1190000005840672)
 
 
 
@@ -18,8 +24,10 @@
 * [lxml](https://lxml.de/)
 * [pyquery](https://pythonhosted.org/pyquery/)
 * [pymysql](https://pymysql.readthedocs.io/en/latest/)
+* [dj-database-url]()
 * [scrapy-fake-useragent](https://github.com/alecxe/scrapy-fake-useragent)
-* [Twisted](https://twistedmatrix.com/trac/)
+* [Twisted](https://twistedmatrix.com/trac/) / [我看到的最棒的Twisted入门教程](http://blog.sina.com.cn/s/blog_704b6af70100py9n.html)
+* [treq](https://github.com/twisted/treq)
 
 
 
@@ -34,7 +42,7 @@
 
 ### 参考资料
 
-* [XPath 教程](http://www.w3school.com.cn/xpath/) - `Chrome $x()`
+* [XPath 教程](http://www.w3school.com.cn/xpath/) - `Chrome $x()` - `Element - command+f(验证)`
 * [xpath路径表达式笔记](http://www.ruanyifeng.com/blog/2009/07/xpath_path_expressions.html)
 
 
@@ -68,3 +76,4 @@
 ### 其他技术配合
 
 * `gooogle 正向代理 高匿代理`
+* `chrome://version/`: 获取User Agent
