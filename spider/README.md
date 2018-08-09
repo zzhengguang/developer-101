@@ -6,7 +6,7 @@
 
 * [Scrapy](https://scrapy.org/) / [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.io/zh_CN/latest/)
 * [从源码开始学习Scrapy](https://blog.csdn.net/column/details/22621.html)
-* [scrapy爬虫学习系列](http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_007_scrapy01.html)
+
 
 
 ## 反爬策略

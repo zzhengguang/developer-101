@@ -23,6 +23,7 @@
 
 * [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 * [React.js 小书](http://huziketang.mangojuice.top/books/react/) - `3zJG70XchJ`
+* [React 学习之道](https://leanpub.com/the-road-to-learn-react-chinese)
 * [React](https://reactjs.org/) / [React 中文文档](https://doc.react-china.org/)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
