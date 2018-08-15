@@ -1,27 +1,16 @@
-# WEB前端
+## React
 
-* [我的前端工程師之路](https://denny.qollie.com/2016/01/18/way-to-fed/)
-* [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs)
 
-## 基础部分
-
-* [安装](install.md)
-* [工具](tools.md)
 
 **学习资料**
 
-
-* 你不知道的JavaScript
-
-## webpack
-
-**学习资料**
+* [01 - the-road-to-learn-react](https://leanpub.com/the-road-to-learn-react-chinese)
+* [02 - Taming the State in React](https://leanpub.com/taming-the-state-in-react)
+* [诱人的 react 视频教程-基础篇](https://www.rails365.net/playlists/you-ren-de-react-shi-pin-jiao-cheng-ji-chu-pian)
 
 
-* [Webpack3.X版 成神之路 全网首发 (共24集)](http://jspang.com/2017/09/16/webpack3-2/)
+**相关资源**
 
 
-
-
-
-
+* [Create React App](https://github.com/facebook/create-react-app)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)

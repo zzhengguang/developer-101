@@ -25,7 +25,7 @@
 * [React.js 小书](http://huziketang.mangojuice.top/books/react/) - `3zJG70XchJ`
 * [React 学习之道](https://leanpub.com/the-road-to-learn-react-chinese)
 * [React](https://reactjs.org/) / [React 中文文档](https://doc.react-china.org/)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
 * [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 * [Under the hood: React](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
@@ -33,7 +33,7 @@
 
 **插件**
 
-* [create-react-app](https://github.com/facebook/create-react-app)
+
 * [react-app-rewired](https://github.com/timarney/react-app-rewired)
 * [custom-react-scripts](https://github.com/kitze/custom-react-scripts)
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - `漂亮,可移植性 列表拖拽库`
