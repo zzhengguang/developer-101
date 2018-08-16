@@ -25,3 +25,12 @@
 * [fetch](https://github.com/github/fetch) / [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
 * [axios](https://github.com/axios/axios)
 * [SuperAgent](https://github.com/visionmedia/superagent)
+
+
+**模拟接口**
+
+* [Charles 代理工具分享](https://github.com/gzrichard/charles-share)
+* [json-server](https://github.com/typicode/json-server)
+* [faker.js](https://github.com/marak/Faker.js/)
+* [mockAPI](http://www.mockapi.io/)
+* [JSON Generator](https://www.json-generator.com/)
