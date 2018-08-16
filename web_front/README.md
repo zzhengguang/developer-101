@@ -12,5 +12,16 @@
 **相关资源**
 
 
+* [BootCDN](https://www.bootcdn.cn/)
 * [Create React App](https://github.com/facebook/create-react-app)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+
+
+**http client**
+
+* [JavaScript Promise迷你书](http://liubin.org/promises-book/)
+* [使用 Fetch - Web API 接口](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
+* [fetch](https://github.com/github/fetch) / [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
+* [axios](https://github.com/axios/axios)
+* [SuperAgent](https://github.com/visionmedia/superagent)

@@ -17,7 +17,7 @@
 * [MDN - 重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 * [深入掌握 ECMAScript 6 异步编程](http://www.ruanyifeng.com/blog/2015/04/generator.html)
-* [JavaScript Promise迷你书](http://liubin.org/promises-book/)
+
 
 ## React
 
@@ -174,11 +174,6 @@
 * [semantic-ui](https://semantic-ui.com/)
 
 
-### HTTP Client
-
-* [使用 Fetch - Web API 接口](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
-* [fetch](https://github.com/github/fetch)
-* [axios](https://github.com/axios/axios)
 
 
 ### 函数式编程
