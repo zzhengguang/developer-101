@@ -166,12 +166,7 @@
 
 
 
-### Ui库
 
-* [Ant Design](https://ant.design/index-cn)
-* [element](http://element.eleme.io/)
-* [Bootstrap](https://getbootstrap.com/)
-* [semantic-ui](https://semantic-ui.com/)
 
 
 
