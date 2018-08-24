@@ -1,34 +1,8 @@
 
-## 付费视频
-
-* [React16.4 开发简书项目
-从零基础入门到实战](https://coding.imooc.com/class/229.html)
-* [rails365编程学院](https://www.rails365.net/)
-* [DvaJS知识地图](https://dvajs.com/knowledgemap/)
-
 
 ## tips
 
 * `more tools` -> `Rendering` -> `Paint flashing`(基础篇 #9 react 如何更新 dom)
-
-
-## ES6
-
-* [MDN - 重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-* [深入掌握 ECMAScript 6 异步编程](http://www.ruanyifeng.com/blog/2015/04/generator.html)
-
-
-## React
-
-* [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
-* [React.js 小书](http://huziketang.mangojuice.top/books/react/) - `3zJG70XchJ`
-* [React 学习之道](https://leanpub.com/the-road-to-learn-react-chinese)
-* [React](https://reactjs.org/) / [React 中文文档](https://doc.react-china.org/)
-
-* [React Lifecycle Methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
-* [Under the hood: React](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
-
 
 
 **插件**
@@ -47,28 +21,15 @@
 * [componentDidMount](https://reactjs.org/docs/react-component.html#componentdidmount) - `Ajax 数据拉取、定时器的启动`
 
 
-## Redux
-
-* [Redux](https://redux.js.org/) / [Redux 中文文档](http://cn.redux.js.org/)
-* [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
-* [React Redux](https://github.com/reduxjs/react-redux)
-* Redux 入门教程: [1基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html) /  [2中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html) / [3React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
-
-
-
-
-## React 全家桶
 
 
 
 
 
-* [React Router](https://github.com/ReactTraining/react-router) / [React Router V4 中文文档](http://reacttraining.cn)
-* [redux-thunk](https://github.com/reduxjs/redux-thunk)
-* [redux-saga](https://github.com/redux-saga/redux-saga)/ [中文文档](https://redux-saga-in-chinese.js.org/)
-* [redux-logger](https://github.com/evgenyrodionov/redux-logger)
-* [styled-components](https://github.com/styled-components/styled-components)
-* [redux-actions](https://github.com/redux-utilities/redux-actions)
+
+
+* 
+
 
 
 
